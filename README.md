@@ -1,2 +1,3 @@
 # Word2Vec
-尝试word2vec
+
+python3 train_word2vec_model.py wiki_seg.txt wiki.zh.text.model wiki.zh.text.vector
